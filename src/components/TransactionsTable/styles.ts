@@ -37,6 +37,13 @@ export const Container = styled.div`
 
       &.withdraw {
         color: var(--red);
+        position: relative;
+
+        &::before {
+          position: absolute;
+          content: '-';
+          left: 20px;
+        }
       }
     }
   }

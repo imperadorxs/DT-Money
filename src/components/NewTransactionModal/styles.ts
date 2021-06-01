@@ -39,6 +39,9 @@ export const Container = styled.form`
 
   button[type='submit'] {
     width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     padding: 0 15rem;
     height: 4rem;
     background: var(--green);

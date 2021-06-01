@@ -24,6 +24,7 @@
     "prettier"
   ],
   "rules": {
+    "react/require-default-props": "off",
     "no-underscore-dangle": "off",
     "import/no-duplicates": "off",
     "@typescript-eslint/ban-types": "off",

@@ -1,46 +1,192 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+    <img alt="DT-Money" style="width: 100%; max-width: 773px;" src="https://imperadorxs-images.s3.amazonaws.com/dt-money.png" />
+</h1>
 
-## Available Scripts
+<h3  align="center">
 
-In the project directory, you can run:
+Application web to control your finances
 
-### `yarn start`
+</h3>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `yarn test`
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/imperadorxs/DT-Money">
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  <a href="https://www.linkedin.com/in/imperadorxs/" target="_blank" rel="noopener noreferrer">
+    <img alt="Made by" src="https://img.shields.io/badge/made%20by-Allan%20Santiago-%20">
+  </a>
 
-### `yarn build`
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/imperadorxs/DT-Money">
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  <a href="https://github.com/imperadorxs/DT-Money/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/imperadorxs/DT-Money">
+  </a>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+  <a href="https://github.com/imperadorxs/DT-Money/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/imperadorxs/DT-Money">
+  </a>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+  <img alt="GitHub" src="https://img.shields.io/github/license/imperadorxs/DT-Money">
+</p>
 
-### `yarn eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<p align="center">
+  <a href="#-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-license">License</a>
+</p>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 👨🏻‍💻 About the project
+
+
+
+
+A simple application to control your finances, income, outcome and total, only to learn more about react.
+
+
+
+## 🚀 Technologies
+
+
+
+Technologies that I used to develop this app
+
+
+
+- [Reactjs](reactjs.org)
+
+- [Typescript](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+
+- [Eslint](https://eslint.org/)
+
+- [Prettier](https://prettier.io/)
+
+- [EditorConfig](https://editorconfig.org/)
+
+- [styled-components](https://styled-components.com/)
+
+
+
+
+## 💻 Getting started
+
+
+
+### Requirements
+
+
+
+- [React](https://pt-br.reactjs.org/)
+
+- [Node](https://nodejs.org/en/download/)
+
+- [Yarn](https://classic.yarnpkg.com/en/docs/install#windows-stable)
+
+
+
+**Clone the project and access the folder**
+
+
+
+```bash
+
+$ git clone https://github.com/imperadorxs/DT-Money &&  cd DT-Money
+
+```
+
+
+**Follow the steps below**
+
+
+```bash
+# Install the dependencies
+
+$ yarn
+
+# start to run aplication in your browser
+
+yarn start
+
+
+```
+
+
+
+
+
+## 🤔 How to contribute
+
+
+
+- **Make a fork of this repository**
+
+
+
+```bash
+
+# Fork using GitHub official command line
+
+# If you don't have the GitHub CLI, use the web site to do that.
+
+
+
+$ gh repo fork imperadorxs/DT-Money
+
+```
+
+
+
+```bash
+
+# Clone your fork
+
+$ git clone your-fork-url &&  cd DT-Money
+
+
+
+# Create a branch with your feature
+
+$ git checkout -b my-feature
+
+
+
+# Make the commit with your changes
+
+$ git commit -m 'feat: My new feature'
+
+
+
+# Send the code to your remote branch
+
+$ git push origin my-feature
+
+```
+
+
+
+After your pull request is merged, you can delete your branch
+
+
+
+## 📝 License
+
+
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+
+---
+
+
+
+Made with 💜&nbsp; by Allan Santiago 👋 [See my linkedin](https://www.linkedin.com/in/imperadorxs/)
