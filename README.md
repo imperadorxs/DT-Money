@@ -1,8 +1,3 @@
-
-<h1 align="center">
-    <img alt="DT-Money" style="width: 100%; max-width: 773px;" src="https://imperadorxs-images.s3.amazonaws.com/dt-money.png" />
-</h1>
-
 <h3  align="center">
 
 Application web to control your finances
